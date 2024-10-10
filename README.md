@@ -10,3 +10,7 @@
 ### Тест 3
 
 _Hello_
+
+#### Вставка картинки
+
+![alt text](wallpaper.jpg)
